@@ -68,7 +68,7 @@ We propose a **Distribution-Regularized Convolutional Neural Network (DR-CNN)** 
   - Outperformed baseline in handling heterogeneity across datasets.
 - Potential to reduce over-diagnosis and improve clinical confidence.
 
-![Results Comparison](./image_assets/results_comparison.png)
+![Results Comparison](./image_assests/results_comparison.png)
 ---
 
 ## Limitations
