@@ -20,7 +20,7 @@ This project was developed by our multidisciplinary team of undergraduate studen
 
 ## Problem Statement
 Pneumonia is a common diagnosis in clinical settings, often seen in chest radiographs. However, differentiating pneumonia from early-stage lung tumors is challenging, which can delay critical care. The following provides an radiographic illustrations of pneumonia and early-stage lung cancer respectively: 
-<center>![Pneumonia Diagnosis Challenge](./image_assests/pneumonia_diagnosis_challenge.png)</center>
+![Pneumonia Diagnosis Challenge](./image_assests/pneumonia_diagnosis_challenge.png)
 
 ### Why It Matters
 - **Impact of COVID-19**: Increased pneumonia cases have burdened healthcare systems.
@@ -47,7 +47,7 @@ We propose a **Distribution-Regularized Convolutional Neural Network (DR-CNN)** 
      - **Image Augmentation**: Simulations for diverse institutional standards.
      - **Window Normalization**: Improved generalization across datasets.
 
-<center>![Solution Overview](./image_assests/model_architecture.png)</center>
+![Solution Overview](./image_assests/model_architecture.png)
 2. **Datasets**:
    - Training: **CheXpert Dataset**.
    - Testing: **MIMIC Dataset** for external validation.
@@ -68,7 +68,7 @@ We propose a **Distribution-Regularized Convolutional Neural Network (DR-CNN)** 
   - Outperformed baseline in handling heterogeneity across datasets.
 - Potential to reduce over-diagnosis and improve clinical confidence.
 
-<center>![Results Comparison](./image_assets/results_comparison.png)</center>
+![Results Comparison](./image_assests/results_comparison.png)
 ---
 
 ## Limitations
