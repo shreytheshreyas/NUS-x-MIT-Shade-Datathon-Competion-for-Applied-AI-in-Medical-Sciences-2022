@@ -1,5 +1,3 @@
-Our Soulution: NOVEL + ROBUST AI solution to detect pneumonia with high specificity to aid in screening for possible underlying lung tumors.
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Problem Statement](#problem-statement)
