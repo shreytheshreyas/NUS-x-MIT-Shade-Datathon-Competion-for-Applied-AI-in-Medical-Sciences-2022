@@ -92,7 +92,10 @@ We propose a **Distribution-Regularized Convolutional Neural Network (DR-CNN)** 
 - **Shreyas**
 
 ---
+## Awards
+- Secured First-Runner-Up position in the competition for our proposed and implemented solution.
 
+---
 ## Resources
 - **Dataset**: [CheXpert Dataset](https://stanfordmlgroup.github.io/competitions/chexpert/)
 - **Research Papers**: [Example Paper on Robust AI](https://proceedings.nips.cc/paper/2020/file/201d7288b4c18a679e48b31c72c30ded-Paper.pdf)
@@ -100,4 +103,4 @@ We propose a **Distribution-Regularized Convolutional Neural Network (DR-CNN)** 
 ---
 
 ## Acknowledgments
-This project is dedicated to improving healthcare outcomes through innovation and teamwork. Thank you to the competition organizers and participants for this incredible opportunity.
+This project is dedicated to improving healthcare outcomes through innovation and teamwork. Thank you to the competition organizers and my team for this incredible opportunity.
